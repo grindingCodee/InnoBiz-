@@ -4,12 +4,14 @@ Bienvenue dans le challenge **LandingPage**. Ce projet consiste à créer une La
 
 ## Polices Utilisées
 
-Pour ce projet, nous avons utilisé la police **Inter**.
+Pour ce projet, nous avons utilisé la police **Inter**. 
+pour les titres h2, la police **Inria Serif** en italic 
+et pour le mot "INNO", la police **Noto Sans**
 
 ## Couleurs Utilisées
 
 - background : `#B2D6C0`
-- button : `#584FCC`
+- button & icon : `#584FCC`
 - cercle : `#F8D4F2`
 - text-color : `#000000`
 
