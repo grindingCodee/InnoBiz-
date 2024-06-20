@@ -34,10 +34,10 @@ Vos utilisateurs devraient pouvoir :
 
 Vous êtes libre d'utiliser les langages et outils de votre choix pour ce projet. Voici quelques suggestions :
 
-- **HTML/CSS** : Pour structurer et styliser votre formulaire.
-- **JavaScript** : Pour ajouter des fonctionnalités interactives et des validations de formulaire.
+- **HTML/CSS** : Pour structurer et styliser votre design.
+- **JavaScript** : Pour ajouter des fonctionnalités interactives.
 - **Frameworks** : Vous pouvez utiliser des frameworks comme React, Vue, ou Angular si vous le souhaitez.
-- **Outils d'accessibilité** : Utilisez des outils comme ARIA pour rendre votre formulaire accessible.
+- **Outils d'accessibilité** : Utilisez des outils comme ARIA, Wave; pour rendre votre formulaire accessible.
 
 ## Comment Commencer
 
